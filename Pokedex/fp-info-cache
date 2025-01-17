@@ -1,4 +1,4 @@
-21672572322253241
+21686490087698227
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51421,6 +51421,69 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom GBA Tools
+4-way Directional Switch
+
+
+0
+6
+3
+Custom GBA Tools
+Battery Pack
+
+
+0
+0
+0
+Custom GBA Tools
+CONV_ME2108A33P
+
+
+0
+3
+3
+Custom GBA Tools
+HDMI Decoder Mount
+
+
+0
+0
+0
+Custom GBA Tools
+IND_ETQP4M220KVK
+
+
+0
+2
+2
+Custom GBA Tools
+MCP3008
+
+
+0
+16
+16
+Custom GBA Tools
+Pi GPIO Header
+
+
+0
+40
+40
+Custom GBA Tools
+SS14_Diode
+
+
+0
+2
+2
+Custom GBA Tools
+Thru-hole joystick
+
+
+0
+6
+6
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -54501,13 +54564,6 @@ heatsink
 0
 2
 1
-IC
-MCP23017
-
-
-0
-28
-28
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
