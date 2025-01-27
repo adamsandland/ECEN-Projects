@@ -1,4 +1,4 @@
-21686490087698227
+21691703870659411
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51429,12 +51429,26 @@ Custom GBA Tools
 6
 3
 Custom GBA Tools
+Battery Charger Board
+
+
+0
+6
+6
+Custom GBA Tools
 Battery Pack
 
 
 0
 0
 0
+Custom GBA Tools
+Battery Protection Module
+
+
+0
+4
+4
 Custom GBA Tools
 CONV_ME2108A33P
 
@@ -51463,6 +51477,13 @@ MCP3008
 0
 16
 16
+Custom GBA Tools
+MSOP10
+<b>10 Lead Platic MSOP</b><p>Source: http://www.linear.com .. LT1996
+
+0
+10
+10
 Custom GBA Tools
 Pi GPIO Header
 
